@@ -1,0 +1,12 @@
+{
+  "name": "vault",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "node --experimental-modules src/main.mjs"
+  },
+  "author": "tiboitel",
+  "license": "ISC"
+}
